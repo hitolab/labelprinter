@@ -4,5 +4,5 @@
 
 
 # labelprinterのセットアップ
--DYMOのページhttps://www.dymo.com/en-US/online-support/dymo-user-guides
--DYMO Label™ v8.7.4をDL & install
+- DYMOのページhttps://www.dymo.com/en-US/online-support/dymo-user-guides
+- DYMO Label™ v8.7.4をDL & install
